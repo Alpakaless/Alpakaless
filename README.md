@@ -41,7 +41,6 @@ Sou Desenvolvedor Full Stack e trabalho com um leque diversificado de projetos, 
 ### Bancos de Dados
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <!-- [ADICIONE OUTROS: MongoDB, PostgreSQL, SQLite, Redis, Firebase...] -->
 </p>
 
 ---
