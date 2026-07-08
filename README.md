@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Alpaka 👋</h1>
+<h1 align="center">Olá, eu sou o Alpaka </h1>
 
 <h3 align="center">Desenvolvedor Full Stack | Soluções digitais sob medida para diferentes desafios e necessidades</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou Desenvolvedor Full Stack e trabalho com um leque diversificado de projetos, unindo front-end, back-end e automação para entregar soluções completas de ponta a ponta. Gosto de encarar desafios variados — de sites institucionais a fluxos automatizados — sempre buscando a abordagem mais criativa e eficiente para cada problema.
 
@@ -19,7 +19,7 @@ Sou Desenvolvedor Full Stack e trabalho com um leque diversificado de projetos, 
 -  Como me encontrar: **gusta.al.silva@gmail.com**
 ---
 
-## 🛠️ Linguagens e Tecnologias
+##  Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +46,7 @@ Sou Desenvolvedor Full Stack e trabalho com um leque diversificado de projetos, 
 
 ---
 
-## 💡 Estilo de Projetos e Soluções
+##  Estilo de Projetos e Soluções
 
 Trabalho com um portfólio diversificado, adaptando a solução à necessidade de cada projeto:
 
@@ -59,7 +59,7 @@ Trabalho com um portfólio diversificado, adaptando a solução à necessidade d
 
 ---
 
-## 🧰 Ferramentas do dia a dia
+##  Ferramentas do dia a dia
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -73,7 +73,7 @@ Trabalho com um portfólio diversificado, adaptando a solução à necessidade d
 
 ---
 
-## 📌 Projetos em destaque
+##  Projetos em destaque
 
 <!-- Substitua pelos seus repositórios reais. Você pode usar o link direto ou o widget automático abaixo -->
 
