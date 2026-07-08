@@ -77,7 +77,7 @@ Trabalho com um portfólio diversificado, adaptando a solução à necessidade d
 
 <!-- Substitua pelos seus repositórios reais. Você pode usar o link direto ou o widget automático abaixo -->
 
-### 🔹 Risotto
+- ###  Risotto
 Gerenciador de .files Open Source em GUI para linux
 
 🔗 [Link do repositório](https://github.com/Alpakaless/Risotto)
