@@ -1,7 +1,9 @@
-<h1 align="center">Olá, eu sou o Alpaka </h1>
-
+<p align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/🇧🇷-Português-green?style=for-the-badge" /></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/🇺🇸-English-blue?style=for-the-badge" /></a>
+</p>
+<h1 align="center">Olá, eu sou o Alpaka</h1>
 <h3 align="center">Desenvolvedor Full Stack | Soluções digitais sob medida para diferentes desafios e necessidades</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+funcionais;Full+Stack+%7C+Web+%7C+Automa%C3%A7%C3%A3o;Sempre+em+busca+de+um+desafio+novo" alt="Typing SVG" />
 </p>
